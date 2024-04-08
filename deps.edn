@@ -1,0 +1,1 @@
+{:deps {io.netty/netty-codec {:mvn/version "4.1.108.Final"}}}
